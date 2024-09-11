@@ -27,7 +27,7 @@
 - HTML5
 - CSS3
 
-<h2 id="started">🚀 Primeiros Passo</h2>
+<h2 id="started">🚀 Primeiros Passos</h2>
 
 Para executar o site localmente é muito simples. Basta clonar o repositório e executar o arquivo index.html em qualquer navegador
 
