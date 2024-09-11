@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="#tech">Tecnologias</a> • 
- <a href="#started">Primeiros Passos</a> • 
+ <a href="#started">Primeiros Passos</a>
 </p>
 
 <h2>Descrição</h2>
