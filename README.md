@@ -19,7 +19,7 @@
 <h2>Layout</h2>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4635bc58-3090-4883-a0b1-700178115d27">
+  <img src="https://github.com/user-attachments/assets/4635bc58-3090-4883-a0b1-700178115d27" height=700px>
 </div>
 
 
