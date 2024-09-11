@@ -1,8 +1,8 @@
 <h1 align="center" style="font-weight: bold;">Projeto Cordel 💻</h1>
 
 <p align="center">
- <a href="#tech">Technologies</a> • 
- <a href="#started">Getting Started</a> • 
+ <a href="#tech">Tecnologias</a> • 
+ <a href="#started">Primeiros Passos</a> • 
 </p>
 
 <h2>Descrição</h2>
@@ -22,12 +22,12 @@
 
 
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="tech">💻 Tecnologias</h2>
 
 - HTML5
 - CSS3
 
-<h2 id="started">🚀 Getting started</h2>
+<h2 id="started">🚀 Primeiros Passo</h2>
 
 Para executar o site localmente é muito simples. Basta clonar o repositório e executar o arquivo index.html em qualquer navegador
 
