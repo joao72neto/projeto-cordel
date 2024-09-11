@@ -13,7 +13,7 @@
     </b>
 </p>
 <p align="left">
-    <b>Consiste em um site que exibe um cordel do autor Milton Duarte de forma responsiva</b>
+    <b>Consiste em um site que exibe um cordel do autor Milton Duarte, com o objetivo de botar em prática o uso do efeito parallax</b>
 </p>
 
 <h2>Layout</h2>
@@ -38,7 +38,7 @@ Para executar o site localmente é muito simples. Basta clonar o repositório e 
 
 <h3>Clonando</h3>
 
-Como clonar este projeto
+Use o comando abaixo para clonar este projeto
 
 ```bash
 git clone https://github.com/joao72neto/projeto-cordel
