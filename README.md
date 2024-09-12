@@ -7,13 +7,13 @@
 
 <h2>Descrição</h2>
 
-<p align="center">
+<p align="left">
     <b>Projeto feito com o auxílio do professor Gustavo Guanabara do canal 
     <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">Curso em Vídeo</a>
     </b>
 </p>
 <p align="left">
-    Consiste em um site que exibe um cordel do autor Milton Duarte, com o objetivo de colocar em prática o uso do efeito parallax
+    Consiste em um site que exibe um cordel do autor Milton Duarte, com o objetivo de colocar em prática o uso do efeito parallax.
 </p>
 
 <h2>Layout</h2>
