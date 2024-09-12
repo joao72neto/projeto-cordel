@@ -7,13 +7,13 @@
 
 <h2>Descrição</h2>
 
-<p align="left">
+<p align="center">
     <b>Projeto feito com o auxílio do professor Gustavo Guanabara do canal 
     <a href="https://www.youtube.com/user/cursosemvideo" target="_blank">Curso em Vídeo</a>
     </b>
 </p>
 <p align="left">
-    <b>Consiste em um site que exibe um cordel do autor Milton Duarte, com o objetivo de botar em prática o uso do efeito parallax</b>
+    Consiste em um site que exibe um cordel do autor Milton Duarte, com o objetivo de colocar em prática o uso do efeito parallax
 </p>
 
 <h2>Layout</h2>
@@ -31,14 +31,14 @@
 
 <h2 id="started">🚀 Primeiros Passos</h2>
 
-Para executar o site localmente é muito simples. Basta clonar o repositório e executar o arquivo index.html em qualquer navegador
+Para visualizar o site localmente, basta clonar o repositório e executar o arquivo index.html com qualquer navegador
 
 <h3>Pré-Requisitos</h3>
 
 - [Navegador WEB](https://www.google.com/intl/pt-BR/chrome/)
 
 
-<h3>Clonando</h3>
+<h3>Clonagem</h3>
 
 Use o comando abaixo para clonar este projeto
 
